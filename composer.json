@@ -13,8 +13,7 @@
     "require": {
         "ext-json": "*",
         "php": ">=7.3",
-        "statamic/cms": "^3.0",
-        "spatie/data-transfer-object": "^1.13|^2.0"
+        "statamic/cms": "^3.0"
     },
     "require-dev": {
         "orchestra/testbench": "^5.0",
